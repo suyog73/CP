@@ -1,0 +1,1 @@
+{"name":"Local: question1","url":"/home/suyog73/Desktop/Adv. DSA/Segment Tree/question1.cpp","tests":[{"id":1659145387398,"input":"8\n3 6 4 7 9 2 1 6\n6\n5 6 9 7 3 0\n3\n1 1 4 3 6\n2 2 6 10\n1 1 4 3 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/suyog73/Desktop/Adv. DSA/Segment Tree/question1.cpp","group":"local","local":true}
